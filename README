@@ -1,0 +1,3 @@
+torch_dct is from https://github.com/zh217/torch-dct
+
+dct.ipynb revised from https://github.com/benjs/DCTransformer-PyTorch
